@@ -1,0 +1,9 @@
+C:\Users\Shamal Rathnayake\source\repos\FileLocker\FileLocker\bin\Release\FileLocker.exe.config
+C:\Users\Shamal Rathnayake\source\repos\FileLocker\FileLocker\bin\Release\FileLocker.exe
+C:\Users\Shamal Rathnayake\source\repos\FileLocker\FileLocker\bin\Release\FileLocker.pdb
+C:\Users\Shamal Rathnayake\source\repos\FileLocker\FileLocker\obj\Release\FileLocker.Form1.resources
+C:\Users\Shamal Rathnayake\source\repos\FileLocker\FileLocker\obj\Release\FileLocker.Properties.Resources.resources
+C:\Users\Shamal Rathnayake\source\repos\FileLocker\FileLocker\obj\Release\FileLocker.csproj.GenerateResource.cache
+C:\Users\Shamal Rathnayake\source\repos\FileLocker\FileLocker\obj\Release\FileLocker.csproj.CoreCompileInputs.cache
+C:\Users\Shamal Rathnayake\source\repos\FileLocker\FileLocker\obj\Release\FileLocker.exe
+C:\Users\Shamal Rathnayake\source\repos\FileLocker\FileLocker\obj\Release\FileLocker.pdb
